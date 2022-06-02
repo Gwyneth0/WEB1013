@@ -1,0 +1,215 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: mulish,source sans pro,sans-serif;
+  padding: 0px;
+  margin: 0px;
+  background: #141414;
+}
+.header h1 {
+  font-size: 30px;
+}
+.nav {
+  line-height: 0px;
+  overflow: hidden;
+  background-color: #0e0707;
+}
+.nav a {
+  float: left ;
+  display: block;
+  color:white;
+  text-align: center;
+  padding: 29px 40px;
+  text-decoration: none;
+}
+.nav a:hover {
+  color: rgb(104, 119, 255);
+}
+.chu a {
+  font-family: Swiss;
+  color: rgb(253, 41, 4);
+  text-decoration: none;
+  font-size: 80px;
+  padding-top: 16px;
+  margin-top: -10px;
+  padding-left: 400px;
+}
+.anh{
+  background-image: url(/images/gioithieu.jpg);
+  background-size: 100% 100%;
+  background-color: #79767a;
+  width: 100%;
+  padding: 400px;
+  max-height: 200px;
+  margin-top: -7px;
+}  
+.anh2{
+  background-image: url(/images/SUV-4200\ \(1\).jpg);
+  background-size: 100% 100%;
+  background-color: #79767a;
+  width: 100%;
+  padding: 400px;
+  max-height: 200px;
+  margin-top: 0px;
+} 
+.anh3{
+  background-image: url(/images/Sedan-4265.jpg);
+  background-size: 100% 100%;
+  background-color: #79767a;
+  width: 100%;
+  padding: 400px;
+  max-height: 200px;
+  margin-top: 0px;
+}
+.sanpham1{
+  font-size: 200px;
+  font-weight: 200px;
+  height: auto;
+  position: absolute;
+  padding: 10px;
+  padding-top: 209px;
+  padding-right: 75px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  font-size: 20px;
+  line-height: 24px;
+  color:white;
+}
+.col-1{
+  display: flex;
+  font-family: mulish,sans-serif;
+  left: -63px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  position: relative;
+  padding: 7px 40px;
+}
+.mua1{
+  position: absolute;
+  left: 11px ;
+  top: 43px;
+  height: 45px;
+  line-height: 45px;
+  color: rgb(248, 7, 7);
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 165px;
+  font-family: mulish,sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.spp{
+    font-size: 24px;
+    line-height: 24px;
+    padding: 4px 30px;
+}
+.sanpham2{
+ font-size: 200px;
+ font-weight: 200px;
+ height: auto;
+ position: absolute;
+ padding: 10px;
+ padding-top: 206px;
+ padding-right: 75px;
+ padding-bottom: 10px;
+ padding-left: 0px;
+ font-size: 20px;
+ line-height: 24px;
+ color:white;
+}
+.col-2{
+  display: flex;
+  font-family: mulish,sans-serif;
+  left: -63px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  position: relative;
+  padding: 7px 40px;
+}
+.sp{
+ font-size: 24px;
+ line-height: 24px;
+ padding: 4px 30px;
+}
+.mua2{
+  position: absolute;
+  left: 11px ;
+  top: 43px;
+  height: 45px;
+  line-height: 45px;
+  color: rgb(248, 7, 7);
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 165px;
+  font-family: mulish,sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.sanpham3{
+  font-size: 200px;
+  font-weight: 200px;
+  height: auto;
+  position: absolute;
+  padding: 10px;
+  padding-top: 209px;
+  padding-right: 75px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  font-size: 20px;
+  line-height: 24px;
+  color:white;
+}
+.col-3{
+  display: flex;
+  font-family: mulish,sans-serif;
+  left: -63px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  position: relative;
+  padding: 7px 40px;
+}
+.mua3{
+  position: absolute;
+  left: 22px ;
+  top: 43px;
+  height: 45px;
+  line-height: 45px;
+  color: rgb(248, 7, 7);
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  border-radius: 3px;
+  width: 165px;
+  font-family: mulish,sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.sppp{
+    font-size: 24px;
+    line-height: 24px;
+    padding: 4px 30px;
+}
